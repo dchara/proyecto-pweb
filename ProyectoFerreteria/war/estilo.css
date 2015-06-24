@@ -1,0 +1,131 @@
+@CHARSET "UTF-8";
+<style>
+
+  h2 {
+    color: orange;
+    text-align: center;
+     }
+
+	#cabezera{
+		color:white;
+		text-align:center;
+		padding:5px;
+	}
+	#imagenLateral{
+		height:800px;
+		width:100px;
+		float:rigth;
+		padding:15px;
+		margin-left:10px;
+	}
+	#pie{
+		 clear:both;
+   	 text-align:center;
+    	padding:5px; 
+	}
+	#accesos{
+		line-height:30px;
+		background-color:#00FFFF;
+		height:700px;
+		width:160px;
+		float:left;
+		padding:10px;
+		margin-left:px;
+	}
+	#body {
+		
+		padding:10px;
+	}
+	#ImagenFactura{
+		width:360px;
+	height:500px;
+	
+	float:left;
+	
+	}
+	#Cliente{
+		padding:0px;
+		width:700px;
+		height:200px;
+		float:left;
+		
+		
+	}
+	#Producto{
+		
+		padding:0px;
+		width:700px;
+		height:300px;
+		float :rigth;
+	}
+	#Productos{
+		line-height:30px;
+		float:left;
+		padding:15px;
+		margin-left:100px;
+	}
+	#Botones{
+	line-height:30px;
+		float:left;
+		padding:15px;
+		margin-left:100px;
+	}
+	.boton{
+		/* Sliding right image */
+		background-color:black;
+		/*    background: transparent url('button_right.png') no-repeat scroll top right;       Sliding right image */
+		display: block;
+		float: center;
+		height: 32px; /* CHANGE THIS VALUE ACCORDING TO IMAGE HEIGHT */
+		margin-right: 6px;
+		padding-right: 20px; /* CHENGE THIS VALUE ACCORDING TO RIGHT IMAGE WIDTH */
+		/* FONT PROPERTIES */
+		text-decoration: none;
+		color: #FFFFFF;
+		font-family: Arial, Helvetica, sans-serif;
+		font-size:12px;
+		font-weight:bold;
+		}
+	.boton2{
+		/* Sliding right image */
+		background-color:red;
+		/*    background: transparent url('button_right.png') no-repeat scroll top right;       Sliding right image */
+		display: block;
+		float: center;
+		height: 32px; /* CHANGE THIS VALUE ACCORDING TO IMAGE HEIGHT */
+		margin-right: 6px;
+		padding-right: 20px; /* CHENGE THIS VALUE ACCORDING TO RIGHT IMAGE WIDTH */
+		/* FONT PROPERTIES */
+		text-decoration: none;
+		color: #FFFFFF;
+		font-family: Arial, Helvetica, sans-serif;
+		font-size:12px;
+		font-weight:bold;
+		}
+	
+	legend {
+		
+		color:black;
+	}
+	fieldset{
+		color:black;
+		font-family:impact;
+	}
+	h2{
+		
+		color:cian;
+		font-family:courier;
+	}
+	h3{
+		color:black;
+		font-family:cursive;
+		font-size:15px;
+		
+	}
+	h4{
+	color:blue;
+	font-family:cursive;
+	font-size:10px;
+		
+	}
+</style>
